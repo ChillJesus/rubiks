@@ -13,4 +13,5 @@
   </li>
   <li>Show encrypted message on generated cube (ugh, gui)</li>
   <li>Completely remake the encryption, to allow decryption</li>
+  <li>Moar languages! ALL THE LANGUAGES!</li>
 </ul>
