@@ -5,12 +5,13 @@
 <ul>
   <li>Using unicode rather than ASCII</li>
   <li>Fancy fancy math to obfuscate input</li>
-  <li>Adding more puzzles<li>
-  <ul>
-    <li>4x4</li>
-    <li>5x5</li>
-    <li>Minx family</li>
-  </ul>
+  <li>Adding more puzzles
+    <ul>
+      <li>4x4</li>
+      <li>5x5</li>
+      <li>Minx family</li>
+    </ul>
+  </li>
   <li>Show encrypted message on generated cube (ugh, gui)</li>
   <li>Completely remake the encryption, to allow decryption</li>
 </ul>
